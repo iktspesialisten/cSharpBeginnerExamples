@@ -1,0 +1,10 @@
+C:\Users\SigurdSkauvik\Source\cSharp\MyFirstMathTests\obj\Debug\netcoreapp2.0\MyFirstMathTests.csproj.CoreCompileInputs.cache
+C:\Users\SigurdSkauvik\Source\cSharp\MyFirstMathTests\obj\Debug\netcoreapp2.0\MyFirstMathTests.AssemblyInfoInputs.cache
+C:\Users\SigurdSkauvik\Source\cSharp\MyFirstMathTests\obj\Debug\netcoreapp2.0\MyFirstMathTests.AssemblyInfo.cs
+C:\Users\SigurdSkauvik\Source\cSharp\MyFirstMathTests\bin\Debug\netcoreapp2.0\MyFirstMathTests.deps.json
+C:\Users\SigurdSkauvik\Source\cSharp\MyFirstMathTests\bin\Debug\netcoreapp2.0\MyFirstMathTests.runtimeconfig.json
+C:\Users\SigurdSkauvik\Source\cSharp\MyFirstMathTests\bin\Debug\netcoreapp2.0\MyFirstMathTests.runtimeconfig.dev.json
+C:\Users\SigurdSkauvik\Source\cSharp\MyFirstMathTests\bin\Debug\netcoreapp2.0\MyFirstMathTests.dll
+C:\Users\SigurdSkauvik\Source\cSharp\MyFirstMathTests\bin\Debug\netcoreapp2.0\MyFirstMathTests.pdb
+C:\Users\SigurdSkauvik\Source\cSharp\MyFirstMathTests\obj\Debug\netcoreapp2.0\MyFirstMathTests.dll
+C:\Users\SigurdSkauvik\Source\cSharp\MyFirstMathTests\obj\Debug\netcoreapp2.0\MyFirstMathTests.pdb

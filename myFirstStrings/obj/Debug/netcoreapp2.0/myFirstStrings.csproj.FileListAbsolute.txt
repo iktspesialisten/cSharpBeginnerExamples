@@ -1,0 +1,10 @@
+C:\Users\iktspesialisten\Repos\cSharp1.0.0-alpha\myFirstStrings\obj\Debug\netcoreapp2.0\myFirstStrings.csproj.CoreCompileInputs.cache
+C:\Users\iktspesialisten\Repos\cSharp1.0.0-alpha\myFirstStrings\obj\Debug\netcoreapp2.0\myFirstStrings.AssemblyInfoInputs.cache
+C:\Users\iktspesialisten\Repos\cSharp1.0.0-alpha\myFirstStrings\obj\Debug\netcoreapp2.0\myFirstStrings.AssemblyInfo.cs
+C:\Users\iktspesialisten\Repos\cSharp1.0.0-alpha\myFirstStrings\bin\Debug\netcoreapp2.0\myFirstStrings.deps.json
+C:\Users\iktspesialisten\Repos\cSharp1.0.0-alpha\myFirstStrings\bin\Debug\netcoreapp2.0\myFirstStrings.runtimeconfig.json
+C:\Users\iktspesialisten\Repos\cSharp1.0.0-alpha\myFirstStrings\bin\Debug\netcoreapp2.0\myFirstStrings.runtimeconfig.dev.json
+C:\Users\iktspesialisten\Repos\cSharp1.0.0-alpha\myFirstStrings\bin\Debug\netcoreapp2.0\myFirstStrings.dll
+C:\Users\iktspesialisten\Repos\cSharp1.0.0-alpha\myFirstStrings\bin\Debug\netcoreapp2.0\myFirstStrings.pdb
+C:\Users\iktspesialisten\Repos\cSharp1.0.0-alpha\myFirstStrings\obj\Debug\netcoreapp2.0\myFirstStrings.dll
+C:\Users\iktspesialisten\Repos\cSharp1.0.0-alpha\myFirstStrings\obj\Debug\netcoreapp2.0\myFirstStrings.pdb

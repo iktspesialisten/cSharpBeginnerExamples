@@ -1,0 +1,10 @@
+C:\Users\SigurdSkauvik\Source\cSharp\MySecondLooping\obj\Debug\netcoreapp2.0\MySecondLooping.csproj.CoreCompileInputs.cache
+C:\Users\SigurdSkauvik\Source\cSharp\MySecondLooping\obj\Debug\netcoreapp2.0\MySecondLooping.AssemblyInfoInputs.cache
+C:\Users\SigurdSkauvik\Source\cSharp\MySecondLooping\obj\Debug\netcoreapp2.0\MySecondLooping.AssemblyInfo.cs
+C:\Users\SigurdSkauvik\Source\cSharp\MySecondLooping\bin\Debug\netcoreapp2.0\MySecondLooping.deps.json
+C:\Users\SigurdSkauvik\Source\cSharp\MySecondLooping\bin\Debug\netcoreapp2.0\MySecondLooping.runtimeconfig.json
+C:\Users\SigurdSkauvik\Source\cSharp\MySecondLooping\bin\Debug\netcoreapp2.0\MySecondLooping.runtimeconfig.dev.json
+C:\Users\SigurdSkauvik\Source\cSharp\MySecondLooping\bin\Debug\netcoreapp2.0\MySecondLooping.dll
+C:\Users\SigurdSkauvik\Source\cSharp\MySecondLooping\bin\Debug\netcoreapp2.0\MySecondLooping.pdb
+C:\Users\SigurdSkauvik\Source\cSharp\MySecondLooping\obj\Debug\netcoreapp2.0\MySecondLooping.dll
+C:\Users\SigurdSkauvik\Source\cSharp\MySecondLooping\obj\Debug\netcoreapp2.0\MySecondLooping.pdb

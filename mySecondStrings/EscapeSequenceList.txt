@@ -1,0 +1,16 @@
+String Escape Sequences
+Escape sequence	Character name	Unicode encoding
+\'	Single quote	0x0027
+\"	Double quote	0x0022
+\\	Backslash	0x005C
+\0	Null	0x0000
+\a	Alert	0x0007
+\b	Backspace	0x0008
+\f	Form feed	0x000C
+\n	New line	0x000A
+\r	Carriage return	0x000D
+\t	Horizontal tab	0x0009
+\U	Unicode escape sequence for surrogate pairs.	\Unnnnnnnn
+\u	Unicode escape sequence	\u0041 = "A"
+\v	Vertical tab	0x000B
+\x	Unicode escape sequence similar to "\u" except with variable length.	\x0041 = "A"

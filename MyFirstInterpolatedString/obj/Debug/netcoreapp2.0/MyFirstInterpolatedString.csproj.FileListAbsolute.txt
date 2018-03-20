@@ -1,0 +1,10 @@
+C:\Users\SigurdSkauvik\Source\cSharp\MyFirstInterpolatedString\bin\Debug\netcoreapp2.0\MyFirstInterpolatedString.deps.json
+C:\Users\SigurdSkauvik\Source\cSharp\MyFirstInterpolatedString\bin\Debug\netcoreapp2.0\MyFirstInterpolatedString.runtimeconfig.json
+C:\Users\SigurdSkauvik\Source\cSharp\MyFirstInterpolatedString\bin\Debug\netcoreapp2.0\MyFirstInterpolatedString.runtimeconfig.dev.json
+C:\Users\SigurdSkauvik\Source\cSharp\MyFirstInterpolatedString\bin\Debug\netcoreapp2.0\MyFirstInterpolatedString.dll
+C:\Users\SigurdSkauvik\Source\cSharp\MyFirstInterpolatedString\bin\Debug\netcoreapp2.0\MyFirstInterpolatedString.pdb
+C:\Users\SigurdSkauvik\Source\cSharp\MyFirstInterpolatedString\obj\Debug\netcoreapp2.0\MyFirstInterpolatedString.csproj.CoreCompileInputs.cache
+C:\Users\SigurdSkauvik\Source\cSharp\MyFirstInterpolatedString\obj\Debug\netcoreapp2.0\MyFirstInterpolatedString.AssemblyInfoInputs.cache
+C:\Users\SigurdSkauvik\Source\cSharp\MyFirstInterpolatedString\obj\Debug\netcoreapp2.0\MyFirstInterpolatedString.AssemblyInfo.cs
+C:\Users\SigurdSkauvik\Source\cSharp\MyFirstInterpolatedString\obj\Debug\netcoreapp2.0\MyFirstInterpolatedString.dll
+C:\Users\SigurdSkauvik\Source\cSharp\MyFirstInterpolatedString\obj\Debug\netcoreapp2.0\MyFirstInterpolatedString.pdb

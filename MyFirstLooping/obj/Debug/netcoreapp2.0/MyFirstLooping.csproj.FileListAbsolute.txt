@@ -1,0 +1,10 @@
+C:\Users\SigurdSkauvik\Source\cSharp\MyFirstLooping\bin\Debug\netcoreapp2.0\MyFirstLooping.deps.json
+C:\Users\SigurdSkauvik\Source\cSharp\MyFirstLooping\bin\Debug\netcoreapp2.0\MyFirstLooping.runtimeconfig.json
+C:\Users\SigurdSkauvik\Source\cSharp\MyFirstLooping\bin\Debug\netcoreapp2.0\MyFirstLooping.runtimeconfig.dev.json
+C:\Users\SigurdSkauvik\Source\cSharp\MyFirstLooping\bin\Debug\netcoreapp2.0\MyFirstLooping.dll
+C:\Users\SigurdSkauvik\Source\cSharp\MyFirstLooping\bin\Debug\netcoreapp2.0\MyFirstLooping.pdb
+C:\Users\SigurdSkauvik\Source\cSharp\MyFirstLooping\obj\Debug\netcoreapp2.0\MyFirstLooping.csproj.CoreCompileInputs.cache
+C:\Users\SigurdSkauvik\Source\cSharp\MyFirstLooping\obj\Debug\netcoreapp2.0\MyFirstLooping.AssemblyInfoInputs.cache
+C:\Users\SigurdSkauvik\Source\cSharp\MyFirstLooping\obj\Debug\netcoreapp2.0\MyFirstLooping.AssemblyInfo.cs
+C:\Users\SigurdSkauvik\Source\cSharp\MyFirstLooping\obj\Debug\netcoreapp2.0\MyFirstLooping.dll
+C:\Users\SigurdSkauvik\Source\cSharp\MyFirstLooping\obj\Debug\netcoreapp2.0\MyFirstLooping.pdb

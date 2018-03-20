@@ -1,0 +1,10 @@
+C:\Users\iktspesialisten\Repos\cSharp1.0.0-alpha\myFirstArray\myApp\obj\Debug\netcoreapp2.0\myApp.csproj.CoreCompileInputs.cache
+C:\Users\iktspesialisten\Repos\cSharp1.0.0-alpha\myFirstArray\myApp\obj\Debug\netcoreapp2.0\myApp.AssemblyInfoInputs.cache
+C:\Users\iktspesialisten\Repos\cSharp1.0.0-alpha\myFirstArray\myApp\obj\Debug\netcoreapp2.0\myApp.AssemblyInfo.cs
+C:\Users\iktspesialisten\Repos\cSharp1.0.0-alpha\myFirstArray\myApp\bin\Debug\netcoreapp2.0\myApp.deps.json
+C:\Users\iktspesialisten\Repos\cSharp1.0.0-alpha\myFirstArray\myApp\bin\Debug\netcoreapp2.0\myApp.runtimeconfig.json
+C:\Users\iktspesialisten\Repos\cSharp1.0.0-alpha\myFirstArray\myApp\bin\Debug\netcoreapp2.0\myApp.runtimeconfig.dev.json
+C:\Users\iktspesialisten\Repos\cSharp1.0.0-alpha\myFirstArray\myApp\bin\Debug\netcoreapp2.0\myApp.dll
+C:\Users\iktspesialisten\Repos\cSharp1.0.0-alpha\myFirstArray\myApp\bin\Debug\netcoreapp2.0\myApp.pdb
+C:\Users\iktspesialisten\Repos\cSharp1.0.0-alpha\myFirstArray\myApp\obj\Debug\netcoreapp2.0\myApp.dll
+C:\Users\iktspesialisten\Repos\cSharp1.0.0-alpha\myFirstArray\myApp\obj\Debug\netcoreapp2.0\myApp.pdb

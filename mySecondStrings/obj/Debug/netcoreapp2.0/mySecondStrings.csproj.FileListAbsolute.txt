@@ -1,0 +1,10 @@
+C:\Users\iktspesialisten\Repos\cSharp1.0.0-alpha\mySecondStrings\obj\Debug\netcoreapp2.0\mySecondStrings.csproj.CoreCompileInputs.cache
+C:\Users\iktspesialisten\Repos\cSharp1.0.0-alpha\mySecondStrings\obj\Debug\netcoreapp2.0\mySecondStrings.AssemblyInfoInputs.cache
+C:\Users\iktspesialisten\Repos\cSharp1.0.0-alpha\mySecondStrings\obj\Debug\netcoreapp2.0\mySecondStrings.AssemblyInfo.cs
+C:\Users\iktspesialisten\Repos\cSharp1.0.0-alpha\mySecondStrings\bin\Debug\netcoreapp2.0\mySecondStrings.deps.json
+C:\Users\iktspesialisten\Repos\cSharp1.0.0-alpha\mySecondStrings\bin\Debug\netcoreapp2.0\mySecondStrings.runtimeconfig.json
+C:\Users\iktspesialisten\Repos\cSharp1.0.0-alpha\mySecondStrings\bin\Debug\netcoreapp2.0\mySecondStrings.runtimeconfig.dev.json
+C:\Users\iktspesialisten\Repos\cSharp1.0.0-alpha\mySecondStrings\bin\Debug\netcoreapp2.0\mySecondStrings.dll
+C:\Users\iktspesialisten\Repos\cSharp1.0.0-alpha\mySecondStrings\bin\Debug\netcoreapp2.0\mySecondStrings.pdb
+C:\Users\iktspesialisten\Repos\cSharp1.0.0-alpha\mySecondStrings\obj\Debug\netcoreapp2.0\mySecondStrings.dll
+C:\Users\iktspesialisten\Repos\cSharp1.0.0-alpha\mySecondStrings\obj\Debug\netcoreapp2.0\mySecondStrings.pdb

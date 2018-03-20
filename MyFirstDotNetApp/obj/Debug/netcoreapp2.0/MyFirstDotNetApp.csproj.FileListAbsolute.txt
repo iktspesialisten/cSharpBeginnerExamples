@@ -1,0 +1,10 @@
+C:\Users\SigurdSkauvik\Source\cSharp\MyFirstDotNetApp\obj\Debug\netcoreapp2.0\MyFirstDotNetApp.csproj.CoreCompileInputs.cache
+C:\Users\SigurdSkauvik\Source\cSharp\MyFirstDotNetApp\obj\Debug\netcoreapp2.0\MyFirstDotNetApp.AssemblyInfoInputs.cache
+C:\Users\SigurdSkauvik\Source\cSharp\MyFirstDotNetApp\obj\Debug\netcoreapp2.0\MyFirstDotNetApp.AssemblyInfo.cs
+C:\Users\SigurdSkauvik\Source\cSharp\MyFirstDotNetApp\bin\Debug\netcoreapp2.0\MyFirstDotNetApp.deps.json
+C:\Users\SigurdSkauvik\Source\cSharp\MyFirstDotNetApp\bin\Debug\netcoreapp2.0\MyFirstDotNetApp.runtimeconfig.json
+C:\Users\SigurdSkauvik\Source\cSharp\MyFirstDotNetApp\bin\Debug\netcoreapp2.0\MyFirstDotNetApp.runtimeconfig.dev.json
+C:\Users\SigurdSkauvik\Source\cSharp\MyFirstDotNetApp\bin\Debug\netcoreapp2.0\MyFirstDotNetApp.dll
+C:\Users\SigurdSkauvik\Source\cSharp\MyFirstDotNetApp\bin\Debug\netcoreapp2.0\MyFirstDotNetApp.pdb
+C:\Users\SigurdSkauvik\Source\cSharp\MyFirstDotNetApp\obj\Debug\netcoreapp2.0\MyFirstDotNetApp.dll
+C:\Users\SigurdSkauvik\Source\cSharp\MyFirstDotNetApp\obj\Debug\netcoreapp2.0\MyFirstDotNetApp.pdb
